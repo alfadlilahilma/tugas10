@@ -1,0 +1,29 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: hotpink;
+    background-color: black;
+
+}
+
+.product {
+    background-color: pink;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: bottom;
+}
+
+.product img {
+    max-width: 8%;
+    height: auto;
+}
+
+.product h2 {
+    margin-top: 0;
+}
